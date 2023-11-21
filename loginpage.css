@@ -1,0 +1,19 @@
+h1 {
+    color:aqua;
+    background-color:rgb(255,173,190);
+    text-decoration: underline;
+}
+.bow { 
+    text-align: center;
+    background-color:brown;
+    margin:80px 190px 80px;
+    padding: 50px 20px 50px 20px;
+    border:10px solid rgb(202, 190, 177);
+    border-radius:17px;
+}
+.hi {
+     background-color: cornflowerblue;
+     padding:10px;
+     border:2px solid;
+     border-radius: 10px;
+}
